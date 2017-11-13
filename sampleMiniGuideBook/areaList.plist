@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>The One Hundred</key>
+	<dict>
+		<key>description</key>
+		<string>ザ･ワンハンドレッドは、ホテルのようなクオリティーを保ちながら おしゃれな友人宅を訪れているような安心感と快適さのある滞在をしていただこうという考えではじめた ベッド・アンド・ブレックファーストです。 部屋数はわずか5室。</string>
+		<key>image</key>
+		<string>002_1.jpg</string>
+		<key>latitude</key>
+		<string>40.686535</string>
+		<key>longitude</key>
+		<string>-73.976661</string>
+	</dict>
+	<key>ハワイノースショアの宿</key>
+	<dict>
+		<key>description</key>
+		<string>ハワイ・オアフ島・ノースショア　で　日本人女性　が経営する　コンドミニアムと　サーフィン＆ボディーボードの体験レッスンを紹介しています！</string>
+		<key>image</key>
+		<string>003_1.jpg</string>
+		<key>latitude</key>
+		<string>21.648352</string>
+		<key>longitude</key>
+		<string>-158.061442</string>
+	</dict>
+	<key>堀江サンロッジイン</key>
+	<dict>
+		<key>description</key>
+		<string>カナダで最高の雪質を誇るスノーリゾートにあるＢ＆Ｂ</string>
+		<key>image</key>
+		<string>009_1.jpg</string>
+		<key>latitude</key>
+		<string>50.884807</string>
+		<key>longitude</key>
+		<string>-119.891917</string>
+	</dict>
+	<key>アイシャ★ハウス</key>
+	<dict>
+		<key>description</key>
+		<string>キングストンの中心街、ハーフ・ウェイ・トゥリー繁華街まで１km。観光、ショッピング、スタジオまでのアクセスも便利。　たいていのところには歩いていけます。</string>
+		<key>image</key>
+		<string>013_1.jpg</string>
+		<key>latitude</key>
+		<string>18.028577</string>
+		<key>longitude</key>
+		<string>-76.798554</string>
+	</dict>
+	<key>Hare Kapone</key>
+	<dict>
+		<key>description</key>
+		<string>Hare Kaponeは日本人専用の日本人宿で、お客様だけで一軒家をシェアするタイプのドミトリーです。</string>
+		<key>image</key>
+		<string>019_1.jpg</string>
+		<key>latitude</key>
+		<string>-27.153286</string>
+		<key>longitude</key>
+		<string>-109.428169</string>
+	</dict>
+</dict>
+</plist>
